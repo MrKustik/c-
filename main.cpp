@@ -1053,7 +1053,7 @@ void program36()
 {
     srand((int)time(NULL));
     int k = 0;
-    std::cout << " solve the examples from the multiplication table " << '\n';
+    std::cout << " solve the examples from the multiplication table\n";
     clock_t start, end;
     start = clock();
     for (int i = 0; i < 10; i++)
